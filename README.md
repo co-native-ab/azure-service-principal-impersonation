@@ -1,8 +1,8 @@
 # 🔐 Azure Service Principal Impersonation
 
-[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white)
-![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=flat&logo=terraform&logoColor=white)
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/co-native-ab/azure-service-principal-impersonation/blob/main/LICENSE)
+[![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white)](https://azure.microsoft.com)
+[![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=flat&logo=terraform&logoColor=white)](https://www.terraform.io/)
 
 A prototype for implementing Azure Service Principal Impersonation using Azure Functions and Key Vault. This project demonstrates an approach to temporary privilege elevation in complex Azure environments.
 
