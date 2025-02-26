@@ -4,7 +4,7 @@
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white)
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=flat&logo=terraform&logoColor=white)
 
-A secure, flexible solution for implementing Azure Service Principal Impersonation using Azure Functions and Key Vault. This project demonstrates a secure approach to temporary privilege elevation in complex Azure environments.
+A prototype for implementing Azure Service Principal Impersonation using Azure Functions and Key Vault. This project demonstrates an approach to temporary privilege elevation in complex Azure environments.
 
 > **⚠️ PROTOTYPE:** This is a demonstration project and not intended for production use without additional security reviews.
 
